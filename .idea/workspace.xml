@@ -7,23 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a12698ae-93cf-46ab-95ec-0d81e9ebbcf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/bbs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bbs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bbs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/CommentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/CommentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/PostDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/PostDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/service/CommentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/util/ConnectionUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/util/ConnectionUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/CommentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/CommentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/PostDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/PostDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/service/CommentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/util/ConnectionUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/util/ConnectionUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,20 +96,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="91" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="91" />
+            <state relative-caret-position="144">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -144,7 +128,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>.toolbar-item span.simditor-icon</find>
+      <find>https://cdn-img.easyicon.net/favicon.ico</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>http://www.csust.edu.cn/dfiles/13047/pub/cslgdx/images/csust.ico</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -197,8 +186,8 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/com/song/service/PostService.java" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp" />
+        <option value="$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java" />
       </list>
     </option>
   </component>
@@ -398,12 +387,12 @@
       <workItem from="1558047756931" duration="26074000" />
       <workItem from="1561684555038" duration="6389000" />
       <workItem from="1561878061672" duration="417000" />
-      <workItem from="1561878576003" duration="251000" />
+      <workItem from="1561878576003" duration="881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86170000" />
+    <option name="totallyTimeSpent" value="86800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -827,17 +816,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="144">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="91" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="91" />
+        <state relative-caret-position="126">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
         </state>
       </provider>
     </entry>
