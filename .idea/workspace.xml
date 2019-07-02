@@ -339,6 +339,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 7.0.92" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://127.0.0.1:8080/" />
       <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
         <artifact name="bbs:war exploded">
