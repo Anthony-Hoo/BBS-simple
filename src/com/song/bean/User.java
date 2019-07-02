@@ -2,6 +2,10 @@ package com.song.bean;
 
 import java.util.Date;
 
+
+/*
+定义一个用户类
+ */
 public class User
 {
     private int id;

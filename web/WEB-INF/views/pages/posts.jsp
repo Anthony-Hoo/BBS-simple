@@ -114,7 +114,7 @@
 <body>
 <div class="m-auto" style="max-width: 300px;padding-top: 100px;">
 <div id="container">
-    <video id="background_video" loop muted></video>
+    <video id="background_video" loop muted style="z-index:-1"></video>
     <div id="video_cover"></div>
     <div id="overlay"></div>
 
@@ -161,9 +161,9 @@
                 </c:forEach>
             </div>
         </div>
-    
 
-    </section>
+
+</section>
 </div>
 
 </div>

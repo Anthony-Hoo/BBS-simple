@@ -10,6 +10,9 @@ import java.util.List;
 
 public class PostDao
 {
+    /*
+    获取文章id,title,content
+     */
     public List<Post> getPosts()
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -34,6 +37,9 @@ public class PostDao
         return posts;
     }
 
+    /*
+    通过帖子id获取帖子
+     */
     public Post getPost(int id)
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -62,6 +68,9 @@ public class PostDao
         return post;
     }
 
+    /*
+    发帖并存进数据库
+     */
     public boolean store(Post post)
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -84,6 +93,9 @@ public class PostDao
         return true;
     }
 
+    /*
+    通过用户id查询该用户发的文章
+     */
     public List<Post> getUserPosts(int id)
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -109,6 +121,9 @@ public class PostDao
         return posts;
     }
 
+    /*
+    编辑更新已发表文章
+     */
     public boolean update(Post post)
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -130,6 +145,9 @@ public class PostDao
         return true;
     }
 
+    /*
+    删除文章
+     */
     public boolean destroy(int id)
     {
         Connection connection = ConnectionUtil.getConnection();

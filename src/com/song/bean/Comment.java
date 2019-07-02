@@ -2,6 +2,9 @@ package com.song.bean;
 
 import java.util.Date;
 
+/*
+定义一个评论类
+ */
 public class Comment
 {
     private int id;

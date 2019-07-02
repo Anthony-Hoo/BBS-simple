@@ -2,6 +2,10 @@ package com.song.bean;
 
 import java.util.Date;
 
+
+/*
+定义一个帖子类
+ */
 public class Post
 {
     private int id;

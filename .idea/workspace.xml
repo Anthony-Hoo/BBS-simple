@@ -7,7 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a12698ae-93cf-46ab-95ec-0d81e9ebbcf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/CommentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/CommentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/PostDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/PostDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/service/CommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/CommentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/CommentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/PostDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/PostDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/service/CommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/bean/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/bean/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/bean/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/bean/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/dao/CommentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/dao/CommentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/dao/PostDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/dao/PostDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/song/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/img/posts.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/web/img/posts.mp4" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,37 +94,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bbs.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="102" column="42" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/song/util/HtmlToText.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+            <state relative-caret-position="272">
+              <caret line="98" column="62" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/main_user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -107,7 +131,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="112">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
@@ -116,17 +140,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="195" selection-end-column="13" />
+            <state relative-caret-position="499">
+              <caret line="195" column="13" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="181" column="14" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="75" column="43" lean-forward="true" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3866#3872#0#HTML" expanded="true" />
+                <element signature="e#3872#3878#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4514#4520#0#HTML" expanded="true" />
+                <element signature="e#4520#4526#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="181" column="14" lean-forward="true" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
+            <state relative-caret-position="275">
+              <caret line="162" column="8" lean-forward="true" selection-start-line="162" selection-start-column="8" selection-end-line="169" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/main_create.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -183,14 +253,12 @@
         <option value="$PROJECT_DIR$/src/com/song/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/edit.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp" />
         <option value="$PROJECT_DIR$/src/com/song/dao/PostDao.java" />
         <option value="$PROJECT_DIR$/src/com/song/servlet/DeleteServlet.java" />
         <option value="$PROJECT_DIR$/src/com/song/servlet/CommentDeleteServlet.java" />
         <option value="$PROJECT_DIR$/src/com/song/service/CommentService.java" />
         <option value="$PROJECT_DIR$/src/com/song/servlet/PostServlet.java" />
         <option value="$PROJECT_DIR$/src/com/song/servlet/PostsServlet.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp" />
         <option value="$PROJECT_DIR$/src/com/song/servlet/CommentServlet.java" />
         <option value="$PROJECT_DIR$/src/com/song/servlet/CreateServlet.java" />
         <option value="$PROJECT_DIR$/src/com/song/servlet/EditServlet.java" />
@@ -209,6 +277,10 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp" />
         <option value="$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp" />
+        <option value="$PROJECT_DIR$/web/js/main_create.js" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp" />
+        <option value="$PROJECT_DIR$/web/js/main_user.js" />
       </list>
     </option>
   </component>
@@ -225,11 +297,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-164" />
-    <option name="y" value="153" />
-    <option name="width" value="1460" />
-    <option name="height" value="795" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -238,7 +309,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,6 +343,12 @@
               <item name="BBS-simple" type="b2602c69:ProjectViewProjectNode" />
               <item name="BBS-simple" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS-simple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS-simple" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -294,6 +370,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -339,7 +416,6 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 7.0.92" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://127.0.0.1:8080/" />
       <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
         <artifact name="bbs:war exploded">
@@ -440,11 +516,12 @@
       <workItem from="1561878576003" duration="251000" />
       <workItem from="1561949625048" duration="53000" />
       <workItem from="1561949714341" duration="895000" />
+      <workItem from="1562055647973" duration="5841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88971000" />
+    <option name="totallyTimeSpent" value="94812000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,7 +533,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -465,12 +542,12 @@
       <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" show_stripe_button="false" sideWeight="0.50958467" side_tool="true" weight="0.22081016" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49041533" visible="true" weight="0.21633238" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49041533" visible="true" weight="0.2185501" />
       <window_info id="Structure" order="7" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info id="Database" order="8" sideWeight="0.49840257" weight="0.19221604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24932614" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2483731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.50159746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,14 +580,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://170ddefb-0cbb-48f8-a2ab-b0d8d775b1bb/schema/bbs/table/user.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/java/util/Date.class" />
     <entry file="file://$PROJECT_DIR$/src/com/song/servlet/RegisterStoreServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
@@ -606,13 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/song/servlet/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -678,13 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="57" column="27" lean-forward="true" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/song/filter/UserFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -708,16 +763,6 @@
           <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -831,24 +876,25 @@
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil_副本.java" />
     <entry file="file://$PROJECT_DIR$/bbs.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
+        <state relative-caret-position="1632">
           <caret line="102" column="42" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/song/util/HtmlToText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="240">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -859,38 +905,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil_副本.java">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/song/util/HtmlToText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="112">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="195" selection-end-column="13" />
+        <state relative-caret-position="499">
+          <caret line="195" column="13" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="181" column="14" lean-forward="true" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
+        <state relative-caret-position="371">
+          <caret line="181" column="14" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/main_create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="98" column="62" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/main_user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="75" column="43" lean-forward="true" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3866#3872#0#HTML" expanded="true" />
+            <element signature="e#3872#3878#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4514#4520#0#HTML" expanded="true" />
+            <element signature="e#4520#4526#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="162" column="8" lean-forward="true" selection-start-line="162" selection-start-column="8" selection-end-line="169" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

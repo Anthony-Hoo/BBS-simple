@@ -9,6 +9,9 @@ import java.util.List;
 
 public class CommentDao
 {
+    /*
+    通过comment_id从数据库获取评论
+     */
     public List<Comment> getComments(int id)
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -34,6 +37,9 @@ public class CommentDao
         return comments;
     }
 
+    /*
+    储存评论到数据库
+     */
     public boolean store(Comment comment)
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -56,6 +62,9 @@ public class CommentDao
         return true;
     }
 
+    /*
+    通过用户id获取该用户发表的评论
+     */
     public List<Comment> getUserComments(int id)
     {
         Connection connection = ConnectionUtil.getConnection();

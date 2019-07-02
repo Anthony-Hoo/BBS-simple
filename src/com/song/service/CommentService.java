@@ -35,6 +35,9 @@ public class CommentService
         return commentDao.getUserComments(id);
     }
 
+    /*
+    删除评论
+     */
     public boolean destroy(int id)
     {
         Connection connection = ConnectionUtil.getConnection();

@@ -7,6 +7,9 @@ import java.sql.*;
 
 public class UserDao
 {
+    /*
+    注册用户
+     */
     public boolean register(User user)
     {
         Connection connection = ConnectionUtil.getConnection();
@@ -28,6 +31,9 @@ public class UserDao
         return true;
     }
 
+    /*
+    登录
+     */
     public User login(String name, String password)
     {
         Connection connection = ConnectionUtil.getConnection();
