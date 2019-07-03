@@ -6,34 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a12698ae-93cf-46ab-95ec-0d81e9ebbcf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Comment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/bean/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/CommentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/CommentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/PostDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/PostDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bbs_war_exploded/WEB-INF/classes/com/song/service/CommentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Comment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/bean/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/bean/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/CommentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/CommentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/PostDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/PostDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bbs/com/song/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bbs/com/song/service/CommentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/song/bean/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/bean/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/song/bean/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/bean/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/song/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/song/dao/CommentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/dao/CommentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/song/dao/PostDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/dao/PostDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/song/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/song/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/song/service/CommentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/img/posts.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/web/img/posts.mp4" afterDir="false" />
-    </list>
+    <list default="true" id="a12698ae-93cf-46ab-95ec-0d81e9ebbcf4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,36 +67,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bbs.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="102" column="42" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/song/util/HtmlToText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="1764">
               <caret line="98" column="62" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/user.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/js/main_user.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -131,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="126">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
@@ -140,63 +114,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="195" column="13" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="181" column="14" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/post.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="75" column="43" lean-forward="true" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
-              <folding>
-                <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3866#3872#0#HTML" expanded="true" />
-                <element signature="e#3872#3878#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4514#4520#0#HTML" expanded="true" />
-                <element signature="e#4520#4526#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="3384">
+              <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="195" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/posts.jsp">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="162" column="8" lean-forward="true" selection-start-line="162" selection-start-column="8" selection-end-line="169" selection-end-column="9" />
-              <folding>
-                <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/js/main_create.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="1625">
+              <caret line="192" column="7" selection-start-line="192" selection-start-column="7" selection-end-line="192" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -309,6 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -343,12 +272,6 @@
               <item name="BBS-simple" type="b2602c69:ProjectViewProjectNode" />
               <item name="BBS-simple" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BBS-simple" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BBS-simple" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -371,7 +294,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,7 +308,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.18.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
@@ -521,7 +443,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94812000" />
+    <option name="totallyTimeSpent" value="95011000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,7 +455,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -542,12 +464,12 @@
       <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" show_stripe_button="false" sideWeight="0.50958467" side_tool="true" weight="0.22081016" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49041533" visible="true" weight="0.2185501" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49041533" visible="true" weight="0.30966768" />
       <window_info id="Structure" order="7" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info id="Database" order="8" sideWeight="0.49840257" weight="0.19221604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2483731" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37299034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.50159746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -879,21 +801,21 @@
     <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil_副本.java" />
     <entry file="file://$PROJECT_DIR$/bbs.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
+        <state relative-caret-position="1836">
           <caret line="102" column="42" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/song/util/HtmlToText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="90">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/song/util/ConnectionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="270">
           <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
@@ -907,22 +829,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="126">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="195" column="13" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="13" />
+        <state relative-caret-position="3384">
+          <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="195" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="181" column="14" selection-start-line="181" selection-start-column="14" selection-end-line="181" selection-end-column="14" />
+        <state relative-caret-position="1625">
+          <caret line="192" column="7" selection-start-line="192" selection-start-column="7" selection-end-line="192" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -935,16 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/pages/create.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="1764">
           <caret line="98" column="62" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#video#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1006,7 +920,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
